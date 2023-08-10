@@ -1,0 +1,14 @@
+C:\Users\david.tomas\C4\TA 20\TA20---Flujo-de-datos\Ejercicio23\Ejercicio23\bin\Debug\net7.0\Ejercicio23.exe
+C:\Users\david.tomas\C4\TA 20\TA20---Flujo-de-datos\Ejercicio23\Ejercicio23\bin\Debug\net7.0\Ejercicio23.deps.json
+C:\Users\david.tomas\C4\TA 20\TA20---Flujo-de-datos\Ejercicio23\Ejercicio23\bin\Debug\net7.0\Ejercicio23.runtimeconfig.json
+C:\Users\david.tomas\C4\TA 20\TA20---Flujo-de-datos\Ejercicio23\Ejercicio23\bin\Debug\net7.0\Ejercicio23.dll
+C:\Users\david.tomas\C4\TA 20\TA20---Flujo-de-datos\Ejercicio23\Ejercicio23\bin\Debug\net7.0\Ejercicio23.pdb
+C:\Users\david.tomas\C4\TA 20\TA20---Flujo-de-datos\Ejercicio23\Ejercicio23\obj\Debug\net7.0\Ejercicio23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.tomas\C4\TA 20\TA20---Flujo-de-datos\Ejercicio23\Ejercicio23\obj\Debug\net7.0\Ejercicio23.AssemblyInfoInputs.cache
+C:\Users\david.tomas\C4\TA 20\TA20---Flujo-de-datos\Ejercicio23\Ejercicio23\obj\Debug\net7.0\Ejercicio23.AssemblyInfo.cs
+C:\Users\david.tomas\C4\TA 20\TA20---Flujo-de-datos\Ejercicio23\Ejercicio23\obj\Debug\net7.0\Ejercicio23.csproj.CoreCompileInputs.cache
+C:\Users\david.tomas\C4\TA 20\TA20---Flujo-de-datos\Ejercicio23\Ejercicio23\obj\Debug\net7.0\Ejercicio23.dll
+C:\Users\david.tomas\C4\TA 20\TA20---Flujo-de-datos\Ejercicio23\Ejercicio23\obj\Debug\net7.0\refint\Ejercicio23.dll
+C:\Users\david.tomas\C4\TA 20\TA20---Flujo-de-datos\Ejercicio23\Ejercicio23\obj\Debug\net7.0\Ejercicio23.pdb
+C:\Users\david.tomas\C4\TA 20\TA20---Flujo-de-datos\Ejercicio23\Ejercicio23\obj\Debug\net7.0\Ejercicio23.genruntimeconfig.cache
+C:\Users\david.tomas\C4\TA 20\TA20---Flujo-de-datos\Ejercicio23\Ejercicio23\obj\Debug\net7.0\ref\Ejercicio23.dll
